@@ -6,6 +6,9 @@ public class Questions {
 	System.out.println("Nurcan'dan merkeze");
     System.out.println("Nurcandan merkeze 2");
     System.out.println("Calisirsan yaparsin");
+    System.out.println("Ahmet branchýnde yazdigim kodlar");
+    
+    
 	}
 
 }
